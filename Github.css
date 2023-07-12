@@ -1,0 +1,53 @@
+/* single line comment */
+
+img {
+    width: 200px;
+    height: 110px;
+    align-items: center;
+}
+
+header {
+    background-color: gold;
+}
+
+body {
+    background-color: bisque;
+}
+
+h1 {
+    color: forestgreen;
+    text-align: center;
+    font-size: 60px;
+    text-decoration: black underline wavy;
+    font-family: Arial;
+    font-weight: 400px;
+    letter-spacing: 12px
+}
+
+h2 {
+    color: rgb(225, 29, 29);
+    font-size: 35px;
+}
+
+h3 {
+    color: rgb(208, 1, 180);
+    font-size: 20px;
+}
+
+button {
+
+    color: rgb(17, 2, 2);
+    font-size: large;
+    background-color: palegreen;
+    border-color: cadetblue;
+    border-width: thick;
+    size: 0vw
+}
+
+a {
+    text-decoration: none;
+}
+
+p {
+    line-height: 2;
+}
