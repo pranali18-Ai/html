@@ -1,0 +1,21 @@
+body{
+    background-color:white;
+}
+
+h1{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 3em;
+    color: white;
+}
+
+form{
+    color:#ddf2ff;
+}
+header{
+    background-color: black;
+}
+
+p+label{
+    color: chartreuse;
+}
